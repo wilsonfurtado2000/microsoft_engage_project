@@ -7,8 +7,11 @@ Would use peer JS ,React JS, Node JS , socket.io
 for my project
 
 Built my UI :
+
 Login /sign up page
+
 Dashboard page where the teams are visible
+
 Built the team specific dashboard
 Meeting page
  
@@ -17,8 +20,11 @@ Meeting page
 
 
 Built my backend :
+
 Login/sign up functionality
+
 Creating a team functionality
+
 Search for a team functionality
 Connect with two people
 
@@ -31,9 +37,13 @@ I built these functionality using Redux , firebase socket.io , peer JS , Node JS
 Started building the Group call functionality:
 
 More than Two people connect to each other
+
 Invite functionality
+
 Audio/video toggle
+
 Video recording functionality
+
 Participants list 
 
 4TH WEEK
@@ -45,8 +55,11 @@ Announced:
 
 Could chat with participants  before / during /
 After the meet.
+
 Search for messages functionality 
+
 Refined my UI
+
 Logout functionality
 
 
