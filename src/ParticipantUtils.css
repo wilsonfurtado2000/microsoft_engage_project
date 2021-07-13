@@ -1,0 +1,40 @@
+.utils {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.part_util {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  padding: 5px;
+  place-items: center;
+  align-items: center;
+  cursor: pointer;
+}
+.part_name {
+  padding: 10px;
+  text-decoration: none;
+  margin-left: -20px;
+}
+.part_util:hover {
+  background-color: lightgray;
+}
+.part_head_1 {
+  font-size: 18px;
+  padding-left: 12px;
+  font-weight: 750;
+}
+.part_head {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.participant {
+  height: 550px;
+  overflow-y: scroll;
+}
+.participant::-webkit-scrollbar {
+  display: none;
+}

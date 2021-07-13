@@ -1,0 +1,63 @@
+.mrrr_21 {
+  height: 390px;
+  overflow-y: scroll;
+  background-color: #edeff1;
+  padding-top: 18px;
+  overflow-x: hidden;
+}
+.mrrr_212 {
+  height: 450px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  background-color: #edeff1;
+  padding-top: 18px;
+}
+
+.chat {
+  overflow-x: hidden;
+}
+.time {
+  margin-left: 10px;
+  font-size: xx-small;
+}
+.mrrr_11 > h3 {
+  padding-top: 20px;
+  background-color: #edeff1;
+  color: black;
+  font-weight: 700;
+  font-size: 18px;
+  padding-left: 10px;
+}
+.mrrr_31 > form {
+  display: flex;
+  flex: 1;
+}
+.mrrr_31 > form > input {
+  flex: 1;
+  outline-width: 0;
+  border-radius: 30px;
+  padding: 10px;
+  border: none;
+}
+.mrrr_31 > form > button {
+  display: none;
+}
+.mrr_rrr {
+  flex: 1;
+  outline-width: 0;
+  border-radius: 30px;
+  padding: 10px;
+  height: 80px;
+  border: none;
+}
+.empty_chat {
+  margin-top: -160px;
+}
+.name12 {
+  display: none;
+}
+.reciver2 {
+  margin-left: auto;
+  background-color: #cfeeba;
+  color: black;
+}

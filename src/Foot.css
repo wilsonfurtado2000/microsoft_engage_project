@@ -1,0 +1,52 @@
+.foot {
+  width: 100%;
+  height: 55vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 60px;
+  background-color: #f4f3f7;
+  padding-top: 30px;
+  padding-left: 0px;
+}
+.info1 > p {
+  padding-top: 18px;
+  color: gray;
+  font-size: small;
+}
+.info2 > p {
+  padding-top: 18px;
+  color: gray;
+  font-size: small;
+}
+.info3 > p {
+  padding-top: 18px;
+  color: gray;
+  font-size: small;
+}
+.info4 > p {
+  padding-top: 18px;
+  color: gray;
+  font-size: small;
+}
+.info5 > p {
+  padding-top: 18px;
+  color: gray;
+  font-size: small;
+}
+.info6 > p {
+  padding-top: 18px;
+  color: gray;
+  font-size: small;
+}
+.hh {
+  color: rgb(66, 64, 64);
+  font-weight: 500;
+  font-size: 15px;
+}
+p:hover {
+  text-decoration: underline;
+  text-decoration-color: black;
+  color: black;
+  cursor: pointer;
+}

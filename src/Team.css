@@ -1,0 +1,22 @@
+.team {
+  display: flex;
+  flex-direction: column;
+}
+.team_view {
+  display: flex;
+  flex-direction: row;
+}
+.left_view {
+  flex: 0.28;
+  background-color: #f1f2f6;
+}
+.right_view {
+  flex: 0.72;
+  box-shadow: -1px -0px 3px rgb(194, 191, 191);
+}
+.header {
+  background-color: #30336b;
+}
+.right_view {
+  background-color: #f8f8fa;
+}

@@ -1,0 +1,40 @@
+.error2 > img {
+  height: 605px;
+  width: 1300px;
+  object-fit: cover;
+}
+.error2 {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  display: grid;
+  place-items: center;
+  position: relative;
+}
+.error_info2 {
+  margin-top: -600px;
+  background-color: lightgray;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.19);
+  padding: 100px;
+  border-radius: 8px;
+}
+.error_info2 > h1 {
+  padding-top: -50px;
+  font-weight: 400;
+}
+.err_but2 {
+  background-color: red !important;
+  margin-left: 150px !important;
+  color: white !important;
+  margin-top: 60px !important;
+}
+.error_info2 > img {
+  height: 110px;
+  width: 110px;
+  object-fit: cover;
+  margin-left: 180px;
+  padding-bottom: 40px;
+}
+.err_but2:hover {
+  background-color: white !important;
+  color: red !important;
+}
