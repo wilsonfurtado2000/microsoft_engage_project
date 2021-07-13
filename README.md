@@ -1,3 +1,49 @@
+I have used agile methodology in doing mu project
+
+IN THE FIRST WEEK 
+
+I researched about the topic and decided that I 
+Would use peer JS ,React JS, Node JS , socket.io
+for my project
+
+Built my UI :
+Login /sign up page
+Dashboard page where the teams are visible
+Built the team specific dashboard
+Meeting page
+ 
+ 
+2ND WEEK
+Built my backend :
+Login/sign up functionality
+Creating a team functionality
+Search for a team functionality
+Connect with two people
+
+I built these functionality using Redux , firebase socket.io , peer JS , Node JS . 
+
+3RD WEEK
+Started building the Group call functionality:
+
+More than Two people connect to each other
+Invite functionality
+Audio/video toggle
+Video recording functionality
+Participants list 
+
+4TH WEEK
+Added the surprise functionality that was 
+Announced:
+
+Could chat with participants  before / during /
+After the meet.
+Search for messages functionality 
+Refined my UI
+Logout functionality
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
