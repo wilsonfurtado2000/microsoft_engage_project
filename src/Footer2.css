@@ -1,0 +1,38 @@
+.foot2 {
+  display: flex;
+  flex-direction: row;
+  background-color: #f4f3f7;
+  height: 5vh;
+}
+.left_2 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 19px;
+}
+.right_2 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 520px;
+  justify-content: space-between;
+  margin-right: 24px;
+}
+.right_2 > p {
+  color: gray;
+  font-size: small;
+  padding-left: 20px;
+}
+.left_2 > p {
+  color: gray;
+  font-size: small;
+}
+.ic {
+  margin-right: -18px;
+  font-size: small !important;
+  color: gray;
+  margin-left: 8px;
+  padding-top: 3px;
+}
+.ic_2 {
+  padding-right: 9px;
+  color: gray;
+}

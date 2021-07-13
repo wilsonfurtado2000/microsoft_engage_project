@@ -1,0 +1,73 @@
+{
+  "name": "microsoft_clone",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "@reduxjs/toolkit": "^1.6.0",
+    "@testing-library/jest-dom": "^5.13.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "@tinymce/tinymce-react": "^3.12.6",
+    "axios": "^0.21.1",
+    "connected-react-router": "^6.9.1",
+    "disable-browser-back-navigation": "^0.1.0",
+    "emailjs-com": "^3.1.0",
+    "emoji-mart": "^3.0.1",
+    "firebase": "^8.6.7",
+    "googleapis": "^80.1.0",
+    "history": "^4.10.1",
+    "http2": "^3.3.7",
+    "nodemailer": "^6.6.2",
+    "peer": "^0.6.1",
+    "peerjs": "^1.3.2",
+    "protected-react-routes-generator": "^1.0.3",
+    "protected-route": "^1.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-emoji-picker": "^1.0.13",
+    "react-icons": "^4.2.0",
+    "react-media-recorder": "^1.4.0",
+    "react-protected-route": "^1.0.8",
+    "react-protected-route-component": "^0.1.1",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "recordrtc-socketio": "^1.0.6",
+    "redux": "^4.1.0",
+    "socket.io-client": "^4.1.2",
+    "spdy-transport": "^3.0.0",
+    "twilio": "^3.65.0",
+    "uuid": "^8.3.2",
+    "web-vitals": "^1.1.2",
+    "websocket": "^1.0.34"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.7.0"
+  }
+}

@@ -1,0 +1,27 @@
+.register {
+  background-image: linear-gradient(-45deg, #f0e9da, #e5f0da, #dae5f0);
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  place-items: center;
+  animation: change 10s ease-in-out infinite;
+  position: relative;
+}
+.register_info {
+  padding: 90px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: white;
+
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.19);
+}
+.new_user > h5 {
+  margin-top: 8px;
+  font-weight: 400;
+  font-size: 14px;
+}
+.link_1 {
+  text-decoration: none;
+  margin-top: 6px;
+}
