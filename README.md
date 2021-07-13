@@ -14,6 +14,8 @@ Meeting page
  
  
 2ND WEEK
+
+
 Built my backend :
 Login/sign up functionality
 Creating a team functionality
@@ -23,6 +25,9 @@ Connect with two people
 I built these functionality using Redux , firebase socket.io , peer JS , Node JS . 
 
 3RD WEEK
+
+
+
 Started building the Group call functionality:
 
 More than Two people connect to each other
@@ -32,6 +37,9 @@ Video recording functionality
 Participants list 
 
 4TH WEEK
+
+
+
 Added the surprise functionality that was 
 Announced:
 
