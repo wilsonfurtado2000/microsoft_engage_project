@@ -95,7 +95,7 @@ See the participants lists
 Logout from the app
 
 
-                                        DEMO OF MY APP
+                                                         DEMO OF MY APP
 Prelogin Page 
 ![image](https://user-images.githubusercontent.com/72563697/125573478-f93ea52b-2457-419c-8e47-1d8ec4f30652.png)
 
@@ -106,7 +106,9 @@ Sign up/ Login page
   Dashboard page
   
   Teams you created are visible here
+  
   option to create a team
+  
   you can search for the required team by typing the team name in the search bar
   
 ![image](https://user-images.githubusercontent.com/72563697/125572395-b9f76d63-eb8e-4f1e-802e-6429aefa1d8f.png)
@@ -125,11 +127,17 @@ search for messages in the search bar
 Meet page
 
 group call functionality
+
  continue conversation you had before the start of the meet
+ 
 search for messages in the search bar
+
 toggle audio/video
+
 video record 
+
 dowmload/ preview video record
+
 see participants list
 
 ![image](https://user-images.githubusercontent.com/72563697/125572984-51a61544-97aa-409b-b79e-54d498c7249b.png)
@@ -137,6 +145,7 @@ see participants list
 ![image](https://user-images.githubusercontent.com/72563697/125573194-c61256d6-b734-4b6e-a153-2d7bce0c389f.png)
 
 continue conversation you had during the meet
+
 logout of the app
 
 
