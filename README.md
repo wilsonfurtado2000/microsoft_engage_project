@@ -76,11 +76,11 @@ Search for a team functionality
 Invite people into the team 
 
 Separate chat functionality for each team 
-    Where we can start the chat before the meet 
-    continue the start during/after ending the meet
+ Where we can start the chat before the meet 
+ continue the start during/after ending the meet
     
 Search for messages in the team dashboard and 
-   also while the meet is running.
+ also while the meet is running.
    
 Audio toggle
 
@@ -115,9 +115,12 @@ Sign up/ Login page
 
 Team dashboard
 
-you can chat with the members 
+you can chat with the team members 
+
 invite members into the team 
+
 search for messages in the search bar
+
 ![image](https://user-images.githubusercontent.com/72563697/125572542-13e698d9-d032-4dda-9299-24978a1aaaa7.png)
 ![image](https://user-images.githubusercontent.com/72563697/125572586-91e76684-d01c-46ba-b5d1-817784b1a8dd.png)
 ![image](https://user-images.githubusercontent.com/72563697/125572605-5de5b2c7-d0bc-44e4-8a63-5174f39906e9.png)
