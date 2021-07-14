@@ -1,6 +1,6 @@
 I have used agile methodology in doing mu project
 
-IN THE FIRST WEEK 
+                                                            IN THE FIRST WEEK 
 
 I researched about the topic and decided that I 
 Would use peer JS ,React JS, Node JS , socket.io
@@ -16,7 +16,7 @@ Built the team specific dashboard
 Meeting page
  
  
-2ND WEEK
+                                                            2ND WEEK
 
 
 Built my backend :
@@ -30,7 +30,7 @@ Connect with two people
 
 I built these functionality using Redux , firebase socket.io , peer JS , Node JS . 
 
-3RD WEEK
+                                                            3RD WEEK
 
 
 
@@ -46,7 +46,7 @@ Video recording functionality
 
 Participants list 
 
-4TH WEEK
+                                                            4TH WEEK
 
 
 
@@ -65,13 +65,7 @@ Logout functionality
 
 
 
-
-
-
-
-
-
-FEATURES OF MY APP
+                                                            FEATURES OF MY APP
 
 User authentication 
 
