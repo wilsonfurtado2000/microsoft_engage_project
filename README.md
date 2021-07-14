@@ -62,6 +62,15 @@ Refined my UI
 
 Logout functionality
 
+
+
+
+
+
+
+
+
+
 FEATURES OF MY APP
 
 User authentication 
