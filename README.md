@@ -62,6 +62,36 @@ Refined my UI
 
 Logout functionality
 
+FEATURES OF MY APP
+
+User authentication 
+
+Create team functionality
+
+Search for a team functionality
+
+Invite people into the team 
+
+Separate chat functionality for each team 
+    Where we can start the chat before the meet 
+    continue the start during/after ending the meet
+    
+Search for messages in the team dashboard and 
+   also while the meet is running.
+   
+Audio toggle
+
+Video toggle
+
+Video recording 
+
+View recording and download recording
+
+See the participants lists 
+
+Logout from the app
+
+
 
 
 
