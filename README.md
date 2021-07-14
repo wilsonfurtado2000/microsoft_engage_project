@@ -95,76 +95,49 @@ See the participants lists
 Logout from the app
 
 
+                                        DEMO OF MY APP
+Prelogin Page 
+
+             ![image](https://user-images.githubusercontent.com/72563697/125572092-98fc29cd-3848-44c5-ace1-ac31214b87fe.png)
+             
+Sign up/ Login page 
+
+        ![image](https://user-images.githubusercontent.com/72563697/125572153-78041889-5e55-4750-9bcd-5bb6661546e9.png)
+            ![image](https://user-images.githubusercontent.com/72563697/125572169-7f8e6581-171c-4829-846c-f7e5cc61a119.png)
+  Dashboard page
+  
+  Teams you created are visible here
+  option to create a team
+  you can search for the required team by typing the team name in the search bar
+  
+![image](https://user-images.githubusercontent.com/72563697/125572395-b9f76d63-eb8e-4f1e-802e-6429aefa1d8f.png)
+
+Team dashboard
+
+you can chat with the members 
+invite members into the team 
+search for messages in the search bar
+![image](https://user-images.githubusercontent.com/72563697/125572542-13e698d9-d032-4dda-9299-24978a1aaaa7.png)
+![image](https://user-images.githubusercontent.com/72563697/125572586-91e76684-d01c-46ba-b5d1-817784b1a8dd.png)
+![image](https://user-images.githubusercontent.com/72563697/125572605-5de5b2c7-d0bc-44e4-8a63-5174f39906e9.png)
 
 
 
-# Getting Started with Create React App
+Meet page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+group call functionality
+ continue conversation you had before the start of the meet
+search for messages in the search bar
+toggle audio/video
+video record 
+dowmload/ preview video record
+see participants list
 
-## Available Scripts
+![image](https://user-images.githubusercontent.com/72563697/125572984-51a61544-97aa-409b-b79e-54d498c7249b.png)
+![image](https://user-images.githubusercontent.com/72563697/125573036-27a7f18f-30e3-4747-a517-6d786cb37784.png)
+![image](https://user-images.githubusercontent.com/72563697/125573194-c61256d6-b734-4b6e-a153-2d7bce0c389f.png)
 
-In the project directory, you can run:
+continue conversation you had during the meet
+logout of the app
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
