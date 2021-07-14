@@ -97,13 +97,12 @@ Logout from the app
 
                                         DEMO OF MY APP
 Prelogin Page 
+![image](https://user-images.githubusercontent.com/72563697/125573478-f93ea52b-2457-419c-8e47-1d8ec4f30652.png)
 
-             ![image](https://user-images.githubusercontent.com/72563697/125572092-98fc29cd-3848-44c5-ace1-ac31214b87fe.png)
-             
 Sign up/ Login page 
+![image](https://user-images.githubusercontent.com/72563697/125573529-cde15281-fe5e-4f36-81ae-a734119c7b37.png)
+![image](https://user-images.githubusercontent.com/72563697/125573544-662b5e43-cfc4-452a-95f7-03be481aa3a4.png)
 
-        ![image](https://user-images.githubusercontent.com/72563697/125572153-78041889-5e55-4750-9bcd-5bb6661546e9.png)
-            ![image](https://user-images.githubusercontent.com/72563697/125572169-7f8e6581-171c-4829-846c-f7e5cc61a119.png)
   Dashboard page
   
   Teams you created are visible here
