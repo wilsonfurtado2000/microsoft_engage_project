@@ -1,4 +1,4 @@
-I have used agile methodology in doing mu project
+I have used agile methodology in doing my project
 
                                                             IN THE FIRST WEEK 
 
