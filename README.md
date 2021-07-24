@@ -1,6 +1,6 @@
 I have used agile methodology in doing my project
 
-                                                            IN THE FIRST WEEK 
+                                                        IN THE FIRST WEEK 
 
 I researched about the topic and decided that I 
 Would use peer JS ,React JS, Node JS , socket.io
@@ -16,7 +16,7 @@ Built the team specific dashboard
 Meeting page
  
  
-                                                            2ND WEEK
+                                                          2ND WEEK
 
 
 Built my backend :
@@ -30,7 +30,7 @@ Connect with two people
 
 I built these functionality using Redux , firebase socket.io , peer JS , Node JS . 
 
-                                                            3RD WEEK
+                                                         3RD WEEK
 
 
 
@@ -46,7 +46,7 @@ Video recording functionality
 
 Participants list 
 
-                                                            4TH WEEK
+                                                         4TH WEEK
 
 
 
@@ -65,7 +65,7 @@ Logout functionality
 
 
 
-                                                            FEATURES OF MY APP
+                                                     FEATURES OF MY APP
 
 User authentication 
 
@@ -95,7 +95,7 @@ See the participants lists
 Logout from the app
 
 
-                                                         DEMO OF MY APP
+                                                     DEMO OF MY APP
 Prelogin Page 
 ![image](https://user-images.githubusercontent.com/72563697/125573478-f93ea52b-2457-419c-8e47-1d8ec4f30652.png)
 
@@ -144,7 +144,7 @@ dowmload/ preview video record
 see participants list
 
 ![image](https://user-images.githubusercontent.com/72563697/125572984-51a61544-97aa-409b-b79e-54d498c7249b.png)
-![image](https://user-images.githubusercontent.com/72563697/125573036-27a7f18f-30e3-4747-a517-6d786cb37784.png)
+![image](https://user-images.githubusercontent.com/72563697/126855535-fdf6fbb3-b789-4db9-b027-0d9174d46cb7.png)
 ![image](https://user-images.githubusercontent.com/72563697/125573194-c61256d6-b734-4b6e-a153-2d7bce0c389f.png)
 
 continue conversation you had during the meet
