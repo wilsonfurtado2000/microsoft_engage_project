@@ -107,19 +107,19 @@ Sign up/ Login page
   
   Teams you created are visible here
   
-  option to create a team
+  Option to create a team
   
-  you can search for the required team by typing the team name in the search bar
+  You can search for the required team by typing the team name in the search bar
   
 ![image](https://user-images.githubusercontent.com/72563697/125572395-b9f76d63-eb8e-4f1e-802e-6429aefa1d8f.png)
 
 Team dashboard
 
-you can chat with the team members 
+You can chat with the team members 
 
-invite members into the team 
+Invite members into the team 
 
-search for messages in the search bar
+Search for messages in the search bar
 
 ![image](https://user-images.githubusercontent.com/72563697/125572542-13e698d9-d032-4dda-9299-24978a1aaaa7.png)
 ![image](https://user-images.githubusercontent.com/72563697/125572586-91e76684-d01c-46ba-b5d1-817784b1a8dd.png)
@@ -129,26 +129,26 @@ search for messages in the search bar
 
 Meet page
 
-group call functionality
+Group call functionality
 
- continue conversation you had before the start of the meet
+Continue conversation you had before the start of the meet
  
-search for messages in the search bar
+Search for messages in the search bar
 
-toggle audio/video
+Toggle audio/video
 
-video record 
+Video record 
 
-dowmload/ preview video record
+Dowmload/ preview video record
 
-see participants list
+See participants list
 
 ![image](https://user-images.githubusercontent.com/72563697/125572984-51a61544-97aa-409b-b79e-54d498c7249b.png)
 ![image](https://user-images.githubusercontent.com/72563697/126855535-fdf6fbb3-b789-4db9-b027-0d9174d46cb7.png)
 ![image](https://user-images.githubusercontent.com/72563697/125573194-c61256d6-b734-4b6e-a153-2d7bce0c389f.png)
 
-continue conversation you had during the meet
+Continue conversation you had during the meet
 
-logout of the app
+Logout of the app
 
 
