@@ -17,9 +17,9 @@ import { useEffect } from "react";
 import SettingsOutlinedIcon from "@material-ui/icons/SettingsOutlined";
 import Avatar from "@material-ui/core/Avatar";
 import { useDispatch } from "react-redux";
-import { logout } from "./features/userSlice";
+import { logout } from "../features/userSlice";
 import { useHistory, withRouter } from "react-router-dom";
-import db, { auth } from "./firebase";
+import db, { auth } from "../firebase";
 import { makeStyles } from "@material-ui/core/styles";
 import Modal from "@material-ui/core/Modal";
 

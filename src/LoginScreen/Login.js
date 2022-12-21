@@ -1,9 +1,9 @@
 import React, { useRef } from "react";
 import "./Login.css";
 import { Link, useHistory } from "react-router-dom";
-import { auth } from "./firebase";
+import { auth } from "../firebase";
 import { useDispatch } from "react-redux";
-import { login } from "./features/userSlice";
+import { login } from "../features/userSlice";
 
 function Login() {
   const dispatch = useDispatch();

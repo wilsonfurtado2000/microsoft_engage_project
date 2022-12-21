@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import "./Register.css";
 import { Link, useHistory } from "react-router-dom";
-import { auth } from "./firebase";
+import { auth } from "../firebase";
 
 function Register() {
   const history = useHistory();

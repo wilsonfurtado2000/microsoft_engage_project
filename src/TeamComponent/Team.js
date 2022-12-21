@@ -7,10 +7,10 @@ import SearchOutlinedIcon from "@material-ui/icons/SearchOutlined";
 import MoreHorizOutlinedIcon from "@material-ui/icons/MoreHorizOutlined";
 import Avatar from "@material-ui/core/Avatar";
 import { useDispatch } from "react-redux";
-import { logout } from "./features/userSlice";
+import { logout } from "../features/userSlice";
 import "./Main.css";
 import { useHistory } from "react-router-dom";
-import { auth } from "./firebase";
+import { auth } from "../firebase";
 
 function Team() {
   const [msg, setMsg] = useState("");
