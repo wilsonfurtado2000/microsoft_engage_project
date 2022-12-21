@@ -15,9 +15,9 @@ import { useState } from "react";
 import Avatar from "@material-ui/core/Avatar";
 import { useDispatch } from "react-redux";
 import { useHistory } from "react-router-dom";
-import { logout } from "./features/userSlice";
-import { auth } from "./firebase";
-import Room from "./Room";
+import { logout } from "../features/userSlice";
+import { auth } from "../firebase";
+import Room from "./MeetingRoom/Room";
 function Meet() {
   const [msg2, setMsg2] = useState("");
   const history = useHistory();

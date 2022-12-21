@@ -9,19 +9,19 @@ import ChatOutlinedIcon from "@material-ui/icons/ChatOutlined";
 import GroupOutlinedIcon from "@material-ui/icons/GroupOutlined";
 import CallEndOutlinedIcon from "@material-ui/icons/CallEndOutlined";
 import FiberManualRecordIcon from "@material-ui/icons/FiberManualRecord";
-import ParticipantUtils from "./ParticipantUtils";
+import ParticipantUtils from "../../ParticipantUtils";
 import io from "socket.io-client";
 import Peer from "peerjs";
 import { useEffect, useRef } from "react";
 import "./Room.css";
-import axios from "./axios";
+import axios from "../../Axios/axios";
 import { useReactMediaRecorder } from "react-media-recorder";
-import { selectUser } from "./features/userSlice";
-import db from "./firebase";
-import Chat from "./Chat2";
+import { selectUser } from "../../features/userSlice";
+import db from "../../firebase";
+import Chat from "../../ChatComponent/Chat2";
 import { useSelector } from "react-redux";
-import { room } from "./TeamLeft";
-import { getTurnServers, setTurnServers } from "./TURN";
+import { room } from "../../TeamComponent/TeamLeft";
+import { getTurnServers, setTurnServers } from "../../TURN";
 
 const ENDPOINT = "https://microsoft-teams123.herokuapp.com";
 

@@ -6,7 +6,7 @@ import InfoOutlinedIcon from "@material-ui/icons/InfoOutlined";
 import MoreHorizOutlinedIcon from "@material-ui/icons/MoreHorizOutlined";
 import { useHistory } from "react-router-dom";
 import { useSelector } from "react-redux";
-import { selectUser } from "./features/userSlice";
+import { selectUser } from "../features/userSlice";
 import axios from "./axios";
 import { Input } from "@material-ui/core";
 import InsertInvitationOutlinedIcon from "@material-ui/icons/InsertInvitationOutlined";

@@ -6,11 +6,11 @@ import { useEffect } from "react";
 import "./Room.css";
 import firebase from "firebase";
 import { useSelector } from "react-redux";
-import { selectUser } from "./features/userSlice";
+import { selectUser } from "../features/userSlice";
 import "./Chat.css";
-import { room } from "./TeamLeft";
-import db from "./firebase";
-import { peerId } from "./Room";
+import { room } from "../TeamComponent/TeamLeft";
+import db from "../firebase";
+import { peerId } from "../MeetingComponent/MeetingRoom/Room";
 
 const ENDPOINT = "https://microsoft-teams123.herokuapp.com";
 

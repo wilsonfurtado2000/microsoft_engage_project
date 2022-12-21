@@ -13,7 +13,7 @@ import AppsIcon from "@material-ui/icons/Apps";
 import HelpOutlineIcon from "@material-ui/icons/HelpOutline";
 import { useHistory } from "react-router-dom";
 import { useParams } from "react-router-dom";
-import db from "./firebase";
+import db from "../firebase";
 import { makeStyles } from "@material-ui/core/styles";
 import Avatar from "@material-ui/core/Avatar";
 import { deepOrange, green } from "@material-ui/core/colors";
